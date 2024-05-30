@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1704007368 source:e:\simulation\myproject\src\heap.cpp
+	<bits/stdc++.h>
+
+1704007427 source:e:\simulation\myproject\src\randomnumber.cpp
+	"RandomNumber.hpp"
+	<bits/stdc++.h>
+
+1704007413 e:\simulation\myproject\include\randomnumber.hpp
+	<bits/stdc++.h>
+
+1704007449 source:e:\simulation\myproject\main.cpp
+	<bits/stdc++.h>
+	"Simulator.hpp"
+	"RandomNumber.hpp"
+
+1704007925 e:\simulation\myproject\include\simulator.hpp
+	"Heap.hpp"
+	"Event.hpp"
+	"RandomNumber.hpp"
+	"Terminal.hpp"
+
+1704007354 e:\simulation\myproject\include\heap.hpp
+	"../src/Heap.cpp"
+
+1704007368 e:\simulation\myproject\src\heap.cpp
+	<bits/stdc++.h>
+
+1704007772 e:\simulation\myproject\include\event.hpp
+	"BUS.hpp"
+	"Terminal.hpp"
+
+1704007066 e:\simulation\myproject\include\bus.hpp
+	<bits/stdc++.h>
+	"Passenger.hpp"
+
+1704007223 e:\simulation\myproject\include\passenger.hpp
+	<bits/stdc++.h>
+
+1704007812 e:\simulation\myproject\include\terminal.hpp
+	<bits/stdc++.h>
+	"BUS.hpp"
+
+1704170470 source:e:\simulation\myproject\src\bus.cpp
+	"BUS.hpp"
+	"Simulator.hpp"
+	"Terminal.hpp"
+	"Passenger.hpp"
+	"Event.hpp"
+	"RandomNumber.hpp"
+
+1704007212 source:e:\simulation\myproject\src\passenger.cpp
+	"Passenger.hpp"
+	"Terminal.hpp"
+	"Simulator.hpp"
+
+1704007954 source:e:\simulation\myproject\src\event.cpp
+	<bits/stdc++.h>
+	"Event.hpp"
+	"Simulator.hpp"
+	"BUS.hpp"
+	"Terminal.hpp"
+
+1704134754 source:e:\simulation\myproject\src\simulator.cpp
+	"Simulator.hpp"
+
+1704010886 source:e:\simulation\myproject\src\terminal.cpp
+	"Terminal.hpp"
+	"Simulator.hpp"
+	"BUS.hpp"
+	"Passenger.hpp"
+	"Event.hpp"
+	"RandomNumber.hpp"
+
